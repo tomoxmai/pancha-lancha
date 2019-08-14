@@ -6,7 +6,7 @@ namespace p
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worslvbvd!");
+            Console.WriteLine("oooooooooooooooooooooooooooooooooooooooooooooof");
         }
     }
 }
